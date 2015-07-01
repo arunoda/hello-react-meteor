@@ -1,0 +1,15 @@
+body, div, a, p, ul, li {
+  font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+}
+
+body {
+  margin: 20px;
+}
+
+.navigation a {
+  padding-right: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
