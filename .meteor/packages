@@ -7,5 +7,5 @@
 meteor-platform
 insecure
 react
-meteorhacks:flow-router
+meteorhacks:flow-router-ssr
 meteorhacks:fast-render
