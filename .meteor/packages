@@ -7,5 +7,5 @@
 meteor-platform
 insecure
 react
-meteorhacks:flow-router-ssr
-meteorhacks:fast-render
+kadira:flow-router-ssr
+kadira:react-layout
