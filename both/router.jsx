@@ -1,3 +1,7 @@
+// if(Meteor.isServer) {
+//   return;
+// }
+
 FlowRouter.route("/", {
   action: function() {
     ReactLayout.render(BlogLayout, {

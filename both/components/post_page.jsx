@@ -11,7 +11,7 @@ PostPage = React.createClass({
   },
   getContent() {
     return <div>
-      <a href="/">Back</a>
+      <a href={FlowRouter.path('/')}>Back</a>
       <h3>{this.data.post.title}</h3>
       <p>{this.data.post.content}</p>
     </div>;
