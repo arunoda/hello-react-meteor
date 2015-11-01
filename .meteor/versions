@@ -36,7 +36,7 @@ insecure@1.0.4
 jquery@1.11.4
 jsx@0.2.3
 kadira:flow-router-ssr@3.5.0
-kadira:react-layout@1.5.1
+kadira:react-layout@1.5.2
 launch-screen@1.0.4
 livedata@1.0.15
 localstorage@1.0.5
