@@ -14,7 +14,7 @@ callback-hook@1.0.4
 check@1.1.0
 chuangbo:cookie@1.1.0
 coffeescript@1.0.11
-cosmos:browserify@0.8.1
+cosmos:browserify@0.8.3
 ddp@1.2.2
 ddp-client@1.2.1
 ddp-common@1.2.2
@@ -36,7 +36,7 @@ insecure@1.0.4
 jquery@1.11.4
 jsx@0.2.3
 kadira:flow-router-ssr@3.5.0
-kadira:react-layout@1.5.0
+kadira:react-layout@1.5.1
 launch-screen@1.0.4
 livedata@1.0.15
 localstorage@1.0.5
@@ -58,9 +58,9 @@ ordered-dict@1.0.4
 promise@0.5.1
 random@1.0.5
 rate-limit@1.0.0
-react@0.14.1
-react-meteor-data@0.2.2
-react-runtime@0.14.1
+react@0.14.1_1
+react-meteor-data@0.2.3
+react-runtime@0.14.1_1
 react-runtime-dev@0.14.1
 react-runtime-prod@0.14.1
 reactive-dict@1.1.3

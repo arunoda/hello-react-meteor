@@ -4,6 +4,7 @@
 
 FlowRouter.route("/", {
   action: function() {
+    name: "home",
     ReactLayout.render(BlogLayout, {
       content: <PostList />
     });
