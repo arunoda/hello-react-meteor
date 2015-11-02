@@ -1,9 +1,5 @@
-// if(Meteor.isServer) {
-//   return;
-// }
-
 FlowRouter.route("/", {
-  action: function() {
+  action() {
     name: "home",
     ReactLayout.render(BlogLayout, {
       content: <PostList />
@@ -13,7 +9,7 @@ FlowRouter.route("/", {
 
 FlowRouter.route('/post/:_id', {
   name: 'post',
-  action: function(params) {
+  action(params) {
     ReactLayout.render(BlogLayout, {
       content: <PostPage _id={params._id} />
     });
