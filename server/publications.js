@@ -4,5 +4,6 @@ Meteor.publish('posts', () => {
 });
 
 Meteor.publish('singlePost', _id => {
+  check(_id, String);
   return Posts.find({_id});
 });
